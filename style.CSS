@@ -126,4 +126,11 @@ footer {
   padding: 20px;
   background-color: #333;
   color: #fff;
+body {
+  background-image: url('images/mon-image.jpg'); /* Utilisez le chemin de l'image */
+  background-size: cover;         /* L'image couvre tout l'espace de la page */
+  background-position: center;     /* Centre l'image */
+  background-repeat: no-repeat;    /* Empêche l'image de se répéter */
 }
+
+
